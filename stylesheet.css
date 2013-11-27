@@ -1,0 +1,37 @@
+html,body{
+	background-color:#cacaca;
+}
+
+.transparent{
+	background:rgba(255,255,255,0.6);
+	padding:2em;
+	border-radius: 0.6em;
+}
+
+#mainFrame{
+
+	border: 0.3em solid rgba(255,255,255,0.6);
+	
+}
+
+#logo1{
+	width:50%;
+	
+}
+
+
+/*
+Partie bootstrap
+*/
+
+.nav > li > a:hover{
+	background: #86a3bd ;
+}
+
+.menu a{
+	line-height: 1.6em !important;
+}
+
+.menu{
+	padding:2em;
+}
